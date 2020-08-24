@@ -1,2 +1,1 @@
-# neighborhood-segementation
-Clustering and exploring Colleges under Delhi University based on their neighborhood(venues surrounding nearby) and average housing rent of the places using k means clustering algorithm.
+Clustering and exploring Colleges under Delhi University, India based on their neighborhood(venues surrounding nearby) and average housing rent ofcollege neighborhood using k-means clustering algorithm.
